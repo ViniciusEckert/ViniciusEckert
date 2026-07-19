@@ -1,7 +1,7 @@
 Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Meu nome é Vinicius Eckert
 ============================================================================================================================================
 
-Técnico em ADS (SENAI) 3/3 | Engenharia de Software (Unisenai) 2/8 | Back-end | JavaScript | TypeScript | Python | C | React | Next.js | Node.js
+Técnico em ADS (SENAI) 3/3 | Engenharia de Software (Unisenai) 1/8 | Back-end | JavaScript | TypeScript | Python | C | React | Next.js | Node.js
 
 * 🌍  Estou no Brasil
 * 🖥️  Veja meu portfólio em [-Meu portfólio-](http://SEU-LINK-AQUI.vercel.app/)
@@ -21,6 +21,6 @@ Técnico em ADS (SENAI) 3/3 | Engenharia de Software (Unisenai) 2/8 | Back-end |
 
 <a href="http://www.github.com/ViniciusEckert"><img src="https://github-readme-stats.vercel.app/api?username=ViniciusEckert&show_icons=true&hide=contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Estatísticas do GitHub" /></a>
 
-<a href="http://www.github.com/ViniciusEckert"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusEckert&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/ViniciusEckert"><img src="https://streak-stats.demolab.com/?user=ViniciusEckert&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/ViniciusEckert" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusEckert&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
